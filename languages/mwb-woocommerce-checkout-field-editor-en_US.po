@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWB Woocommerce Checkout Field Editor\n"
+"POT-Creation-Date: 2018-12-14 12:38+0530\n"
+"PO-Revision-Date: 2018-12-14 12:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: makewebbetter <webmaster@makewebbetter.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;_e\n"
+"woocommerce-chekout-field-editor/\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mwb-woocommerce-checkout-field-editor.php:91
+msgid "Welcome to MWB Woocommerce Checkout Field Editor"
+msgstr ""
+
+#: mwb-woocommerce-checkout-field-editor.php:91
+msgid " – < Here try to explain the Next Process after plugin activation. >"
+msgstr ""
+
+#: mwb-woocommerce-checkout-field-editor.php:92
+msgid "< Next Process Link >"
+msgstr ""
+
+#: mwb-woocommerce-checkout-field-editor.php:176
+msgid ""
+"WooCommerce is not activated, Please activate WooCommerce first to activate "
+"MWB Woocommerce Checkout Field Editor."
+msgstr ""
+
+#: admin/class-mwb-woocommerce-checkout-field-editor-admin.php:187
+msgid "MWB Woocommerce Checkout Field Editor"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:70
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:69
+msgid "Your settings has been saved"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:86
+msgid "Custom Shipping Field has been added"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:96
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:115
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:94
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:113
+msgid "Action"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:97
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:121
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:95
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:124
+msgid "Name"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:98
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:96
+msgid "Label"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:99
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:125
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:97
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:128
+msgid "Required"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:100
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:127
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:98
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:130
+msgid "Validation"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:101
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:99
+msgid "Sort"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:123
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:126
+msgid "label"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:123
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:127
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:126
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:130
+msgid "--"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:174
+msgid "Enable Checkbox to hide Shipping Fields"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:176
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:170
+msgid "Save"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-shipping-form.php:177
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:171
+msgid "Reset Data"
+msgstr ""
+
+#: admin/partials/mwb-woocommerce-checkout-field-editor-admin-display.php:84
+msgid "Custom Billing Field has been added"
+msgstr ""
